@@ -1,0 +1,128 @@
+Domain Name: google.ca
+Registry Domain ID: D73081-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2019-04-28T04:04:23Z
+Creation Date: 2000-10-04T02:21:23Z
+Registry Expiry Date: 2020-04-28T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 59969059-CIRA
+Registrant Name: Google LLC - TMA868122
+Registrant Organization:
+
+Domain Name: youtube.ca
+Registry Domain ID: D336361-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2019-12-22T05:03:50Z
+Creation Date: 2005-12-22T11:55:51Z
+Registry Expiry Date: 2020-12-22T05:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 59972060-CIRA
+Registrant Name: Google Canada
+Registrant Organization:
+Registrant Street: 111 Richmond Street West, 12th Floor
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5H2G4
+Registrant Country: CA
+Registrant Phone: +1.4169158200
+Registrant Phone Ext:
+
+
+
+
+Domain Name: toronto.ca
+Registry Domain ID: D111869-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2020-01-26T16:01:13Z
+Creation Date: 2002-04-19T16:38:44Z
+Registry Expiry Date: 2025-04-18T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R16193-CIRA
+Registrant Name: The City of Toronto
+Registrant Organization:
+Registrant Street: ATTN: WN84ab11, Suite 333 - 333 Terminal Ave.
+Registrant City: Vancouver
+Registrant State/Province: BC
+Registrant Postal Code: V6A4C1
+Registrant Country: CA
+Registrant Phone: +1.6046331142
+Registrant Phone Ext:
+Registrant Fax: +1.6046333174
+Registrant Fax Ext:
+
+Domain Name: newyork.com
+Registry Domain ID: 5413292_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2019-01-20T01:54:53Z
+Creation Date: 1995-11-24T05:00:00Z
+Registrar Registration Expiration Date: 2021-11-23T05:00:00Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Marketing DevOps
+Registrant Organization: Cirque du Soleil
+Registrant Street: 8400 2e Avenue
+Registrant City: Montreal
+Registrant State/Province: Quebec
+Registrant Postal Code: h1z4m6
+Registrant Country: CA
+Registrant Phone: +1.5147237646
+Registrant Phone Ext:
+Registrant Fax:
+
+
+
+Domain Name: sunshineethiopiatours.com
+Registry Domain ID: 1997286352_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2020-01-28T20:29:30Z
+Creation Date: 2016-01-25T12:20:46Z
+Registrar Registration Expiration Date: 2021-01-25T12:20:46Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: AREGAWI GEBREMICHAEAL
+Registrant Organization: ETHIOPIA SUNSHINE TOUR
+Registrant Street: 411 DOVERCOURT
+Registrant City: TORONTO
+Registrant State/Province: Ontario
+Registrant Postal Code: M6J3B8

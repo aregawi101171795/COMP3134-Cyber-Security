@@ -1,0 +1,5 @@
+google.ca	oogle.ca./172.217.9.131
+youtube.ca	outube.ca./172.217.1.238
+facebook.com	acebook.com./157.240.195.35
+abhalimit.com	bhalimit.com./2.57.89.127
+panel.wpcentral.co	anel.wpcentral.co./192.200.108.100
