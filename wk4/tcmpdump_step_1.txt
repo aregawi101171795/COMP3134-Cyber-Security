@@ -1,0 +1,41 @@
+
+root@Aregawi16:~# tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+21:00:22.853614 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 2642752690:2642752798, ack 4228599921, win 1369, length 108
+21:00:22.853703 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 108:144, ack 1, win 1369, length 36
+21:00:22.853814 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 144:252, ack 1, win 1369, length 108
+21:00:22.853889 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 252:288, ack 1, win 1369, length 36
+21:00:22.855728 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 288:460, ack 1, win 1369, length 172
+21:00:22.855767 IP 198.96.85.163.20136 > Aregawi16.ssh: Flags [.], ack 288, win 508, length 0
+21:00:22.855847 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 460:496, ack 1, win 1369, length 36
+21:00:22.855953 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 496:644, ack 1, win 1369, length 148
+21:00:22.856121 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 680:828, ack 1, win 1369, length 148
+21:00:22.856289 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 864:1012, ack 1, win 1369, length 148
+21:00:22.856557 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 1048:1196, ack 1, win 1369, length 148
+21:00:22.856707 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 1232:1364, ack 1, win 1369, length 132
+21:00:22.856873 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 1400:1548, ack 1, win 1369, length 148
+21:00:22.856964 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 1584:1732, ack 1, win 1369, length 148
+21:00:22.858264 IP 198.96.85.163.20136 > Aregawi16.ssh: Flags [.], ack 864, win 512, length 0
+21:00:22.858288 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 1732:2872, ack 1, win 1369, length 1140
+21:00:22.858368 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 2872:3004, ack 1, win 1369, length 132
+21:00:22.858418 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 3004:3040, ack 1, win 1369, length 36
+21:00:22.858467 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 3040:3188, ack 1, win 1369, length 148
+21:00:22.858486 IP 198.96.85.163.20136 > Aregawi16.ssh: Flags [.], ack 1196, win 511, length 0
+21:00:22.858521 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 3188:3224, ack 1, win 1369, length 36
+21:00:22.858566 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 3224:3372, ack 1, win 1369, length 148
+21:00:22.858600 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 3372:3408, ack 1, win 1369, length 36
+21:00:22.858642 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 3408:3556, ack 1, win 1369, length 148
+21:00:22.858739 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 3592:3740, ack 1, win 1369, length 148
+21:00:22.858844 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 3776:3908, ack 1, win 1369, length 132
+21:00:22.858939 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 3944:4092, ack 1, win 1369, length 148
+21:00:22.859017 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 4128:4276, ack 1, win 1369, length 148
+21:00:22.859087 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 4312:4460, ack 1, win 1369, length 148
+21:00:22.859367 IP 198.96.85.163.20136 > Aregawi16.ssh: Flags [.], ack 1732, win 509, length 0
+21:00:22.859383 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 4460:5196, ack 1, win 1369, length 736
+21:00:22.859419 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 5196:5232, ack 1, win 1369, length 36
+21:00:22.859456 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 5232:5380, ack 1, win 1369, length 148
+21:00:22.859491 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 5380:5416, ack 1, win 1369, length 36
+21:00:22.859545 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 5416:5564, ack 1, win 1369, length 148
+21:00:22.859623 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 5600:5732, ack 1, win 1369, length 132
+21:00:22.859722 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 5768:5916, ack 1, win 1369, length 148
