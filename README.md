@@ -1,2 +1,2 @@
-# COMP3134-Cyber-Security
+# COMP3134
  Introduction course to cyber security at Georgebrown.
