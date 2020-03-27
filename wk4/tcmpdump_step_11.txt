@@ -1,11 +1,23 @@
-root@Aregawi16:~# tcpdump -c 5 -i eth0
-tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
-listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
-21:04:01.241492 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 2643688598:2643688706, ack 4228600681, win 1369, length 108
-21:04:01.241578 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 108:144, ack 1, win 1369, length 36
-21:04:01.241649 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 144:252, ack 1, win 1369, length 108
-21:04:01.241699 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 252:288, ack 1, win 1369, length 36
-21:04:01.243074 IP Aregawi16.ssh > 198.96.85.163.20136: Flags [P.], seq 288:460, ack 1, win 1369, length 172
-5 packets captured
-9 packets received by filter
-0 packets dropped by kernel
+tcpdump -i eth0 port 22
+19:08:57.385866 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 47908:48216, ack 1, win 320, length 308
+19:08:57.387781 IP toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238 > Aregawi16.ssh: Flags [.], ack 46076, win 515, length 0
+19:08:57.387815 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 48216:48396, ack 1, win 320, length 180
+19:08:57.397041 IP toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238 > Aregawi16.ssh: Flags [.], ack 46828, win 512, length 0
+19:08:57.397085 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 48396:48704, ack 1, win 320, length 308
+19:08:57.397103 IP toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238 > Aregawi16.ssh: Flags [.], ack 47548, win 516, length 0
+19:08:57.397267 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 48704:49148, ack 1, win 320, length 444
+19:08:57.397331 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 49148:49328, ack 1, win 320, length 180
+19:08:57.397386 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 49328:49508, ack 1, win 320, length 180
+19:08:57.397441 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 49508:49688, ack 1, win 320, length 180
+19:08:57.397495 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 49688:49868, ack 1, win 320, length 180
+19:08:57.399790 IP toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238 > Aregawi16.ssh: Flags [.], ack 47908, win 514, length 0
+19:08:57.399822 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 49868:50048, ack 1, win 320, length 180
+19:08:57.399956 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 50048:50356, ack 1, win 320, length 308
+19:08:57.403905 IP toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238 > Aregawi16.ssh: Flags [.], ack 48396, win 512, length 0
+19:08:57.403936 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 50356:50536, ack 1, win 320, length 180
+19:08:57.404065 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238: Flags [P.], seq 50536:50844, ack 1, win 320, length 308
+19:08:57.414809 IP toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.50238 > Aregawi16.ssh: Flags [P.], seq 1:37, ack 48396, win 512, length 36
+^C
+262 packets captured
+273 packets received by filter
+10 packets dropped by kernel
