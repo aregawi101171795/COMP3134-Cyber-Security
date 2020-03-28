@@ -1,0 +1,2 @@
+sudo launchctl load -w /System/Library/LaunchDaemons/ssh.plist 
+ssh root@138.197.162.191 -p 2222
