@@ -1,0 +1,31 @@
+03:57:06.814972 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 791512:791700, ack 325, win 319, length 188
+03:57:06.815006 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 791700:791888, ack 325, win 319, length 188
+03:57:06.815039 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 791888:792076, ack 325, win 319, length 188
+03:57:06.815073 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 792076:792264, ack 325, win 319, length 188
+03:57:06.815107 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 792264:792452, ack 325, win 319, length 188
+03:57:06.815140 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 792452:792640, ack 325, win 319, length 188
+03:57:06.815175 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 792640:792828, ack 325, win 319, length 188
+03:57:06.815209 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 792828:793016, ack 325, win 319, length 188
+03:57:06.815243 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 793016:793204, ack 325, win 319, length 188
+03:57:06.815276 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 793204:793392, ack 325, win 319, length 188
+03:57:06.815310 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 793392:793580, ack 325, win 319, length 188
+03:57:06.815344 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 793580:793768, ack 325, win 319, length 188
+03:57:06.815378 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 793768:793956, ack 325, win 319, length 188
+03:57:06.815414 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 793956:794144, ack 325, win 319, length 188
+03:57:06.815450 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 794144:794332, ack 325, win 319, length 188
+03:57:06.815484 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 794332:794520, ack 325, win 319, length 188
+03:57:06.815517 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 794520:794708, ack 325, win 319, length 188
+03:57:06.815551 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 794708:794896, ack 325, win 319, length 188
+03:57:06.824315 IP toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500 > Aregawi16.ssh: Flags [.], ack 658892, win 1304, options [nop,nop,sack 1 {660344:661524}], length 0
+03:57:06.824360 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [P.], seq 794896:795084, ack 325, win 319, length 188
+03:57:06.840359 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [.], seq 658892:660344, ack 325, win 319, length 1452
+03:57:06.851081 IP toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500 > Aregawi16.ssh: Flags [.], ack 661524, win 1304, length 0
+03:57:06.851177 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [.], seq 661524:664156, ack 325, win 319, length 2632
+03:57:06.851193 IP toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500 > Aregawi16.ssh: Flags [P.], seq 325:361, ack 661524, win 1304, length 36
+03:57:06.851201 IP toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500 > Aregawi16.ssh: Flags [P.], seq 361:397, ack 661524, win 1304, length 36
+03:57:06.851333 IP Aregawi16.ssh > toroon0954w-lp140-01-70-24-63-216.dsl.bell.ca.60500: Flags [.], ack 397, win 319, length 0
+^C
+4298 packets captured
+4511 packets received by filter
+213 packets dropped by kernel
+root@Aregawi16:~#
