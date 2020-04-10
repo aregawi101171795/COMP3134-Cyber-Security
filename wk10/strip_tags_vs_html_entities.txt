@@ -1,0 +1,1 @@
+I see that the php interpreter can't understand the scripts without the tags. 

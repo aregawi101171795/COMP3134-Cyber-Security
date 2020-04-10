@@ -1,0 +1,9 @@
+1. I could notice the url is changing every time i enter a new word.
+
+2. the ULr took my word and placed it in the form and it says no results found for ...the word I insert 
+
+3. The URL is not correcting my word. 
+https://www.dictionary.com/noresult?term=%3Cscript%3Ealert('hello')%3C%2Fscript%3E&s=t
+
+The TERM in the URL similar the word or variable from the form 
+https://www.dictionary.com/noresult?term=%3Cscript%3Ealert('hello')%3C/script%3E
